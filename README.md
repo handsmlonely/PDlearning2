@@ -4,33 +4,19 @@ You can use the [editor on GitHub](https://github.com/handsmlonely/PDlearning/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 产品经理岗位说明书v0.1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 岗位说明
+### 产品思维
+### 产品套路
+  做产品是否需要标准流程，这是一个值得讨论的问题。标准流程通常是通过总结前人的经验，持续精进完成的流水线方法。作为非常厉害的产品大师，可能会对套路和流程嗤之以鼻，但那是极少有的产品大师才有的资格。作为多数产品经理从业者，能把流程按部就班的执行，至少保证了自己不会出错，并完成了产品经理的基本要求。
+### 案例分析
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/handsmlonely/PDlearning/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
